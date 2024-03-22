@@ -1,2 +1,2 @@
-# machine_learning_studies
+# Machine Learning Studies
 Collection of Machine Learning topics &amp; courses documenting my Data Science journey 
