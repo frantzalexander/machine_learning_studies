@@ -1,2 +1,2 @@
 # Machine Learning Studies
-Collection of Machine Learning topics &amp; courses documenting my Data Science journey 
+Collection of Courses and Topics I have studied related to Machine Learning to develop my skillsets.
